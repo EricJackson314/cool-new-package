@@ -1,4 +1,4 @@
-# cool-new-package
+# Friday the 13th
 
 This is a sample package for a live demo on Friday the 13th :ghost: 
 
